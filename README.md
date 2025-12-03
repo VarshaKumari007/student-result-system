@@ -1,2 +1,2 @@
-# student-result-system
-Student Result Management System — Python + MySQL (CLI)
+# Student Result Management System
+CLI tool to manage student records and compute results — Python + MySQL
