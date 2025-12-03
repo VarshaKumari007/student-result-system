@@ -49,16 +49,21 @@ student-result-system/
 
 ## 🧩 Database Setup
 
+▶️ How to Run
+1️⃣ Install required Python libraries
+pip install mysql-connector-python
+pip install tabulate
 
-🔹 How to Run
+2️⃣ Update your MySQL password inside main.py
+password="YOUR_PASSWORD"
 
-Simply execute:
-
+3️⃣ Run the project
 python main.py
 
-
-You will see a menu:
-
+📸 Sample Output (Menu)
+==============================
+  Student Result System
+==============================
 1. Add Student
 2. Update Marks
 3. Delete Student
@@ -67,29 +72,7 @@ You will see a menu:
 6. Calculate Result
 7. Exit
 
-
-Enter any option (1–7) to perform the desired operation.
-
-🔹 Project Structure
-student-result-system/
-│
-├── main.py        # Main Python application
-├── schema.sql     # Database creation script
-├── .gitignore     # Python ignore rules
-└── README.md      # Project documentation
-
-🔹 Screenshots (Optional)
-
-If you wish, you may later add CLI screenshots for better presentation.
-
-🔹 About the Developer
+🙌 Author
 
 Varsha Kumari
-Fresher Software Developer skilled in Python, Core Java, MySQL, and problem-solving.
-This project reflects practical understanding of backend logic, data handling, and structured programming.
-
-1. Open MySQL Workbench / terminal  
-2. Run the SQL file:
-
-```sql
-SOURCE schema.sql;
+Python & Java Beginner • MySQL • OOPs
