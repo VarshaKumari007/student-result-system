@@ -27,11 +27,11 @@ This project runs fully in the **terminal (CLI)** and is ideal for beginners and
 ## 📂 Project Structure
 student-result-system/
 │
-├── main.py # Main application code
-├── schema.sql # Database + table creation file
-├── README.md # Project description
-├── .gitignore
-└── LICENSE
+├──  main.py # Main application code
+├──  schema.sql # Database + table creation file
+├──  README.md # Project description
+├──  .gitignore
+└──  LICENSE
 
 ---
 
